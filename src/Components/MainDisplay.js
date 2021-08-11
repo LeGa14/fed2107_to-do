@@ -1,6 +1,6 @@
 import React, { Component} from 'react';
 import Header from './Header'
-import ToDoList from './To-DoList';
+import ToDoList from './ToDoList';
 
 class MainDisplay extends Component {
 
