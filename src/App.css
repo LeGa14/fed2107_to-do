@@ -37,7 +37,7 @@
   }
 }
 
-.main-display {
+.main-display, header, section {
   border: black solid 1px;
   margin: 2.5%;
 }
