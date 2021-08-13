@@ -5,7 +5,7 @@ class Header extends Component {
     render() {
         return (
             <header>
-                <h3>To-Do List</h3>
+                <h3>{this.props.title}</h3>
 
                 <h5>Task counter</h5>
 
